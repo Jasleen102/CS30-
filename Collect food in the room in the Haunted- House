@@ -1,7 +1,9 @@
-# When character enter in the room. as along with finding the girl he/she has to collect food order to 
+
 
 Food = []
 
 Food.append('Chicken')
 print(Food)
 
+message = f"When character enter in the room as along with finding the girl, the character has to collect diifernt type of food as to gain power {Food[0]. title()}."
+print(message)
